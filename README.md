@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of hehongyuanlove/flarum-points.** Not for installation: use [Packagist](https://packagist.org/packages/hehongyuanlove/flarum-points) or the [upstream repository](https://github.com/Hehongyuanlove/flarum-points).
 
-**0** versions archived · Latest: [`v0.3`](https://github.com/flarchive/hehongyuanlove-flarum-points/tree/archive/v0.3) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**2** versions archived · Latest: [`v0.3`](https://github.com/flarchive/hehongyuanlove-flarum-points/tree/archive/v0.3) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.2` | 2020-07-31 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/hehongyuanlove-flarum-points/tree/archive/v0.2) |
+| `v0.3` | 2020-07-31 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/hehongyuanlove-flarum-points/tree/archive/v0.3) |
 
 Catalog entry: [packages/hehongyuanlove-flarum-points.json](https://github.com/flarchive/archive-index/blob/main/packages/hehongyuanlove-flarum-points.json)
 
